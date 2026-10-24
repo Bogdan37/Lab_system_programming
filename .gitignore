@@ -1,0 +1,8 @@
+app_baseline
+app_optimized
+perf.data*
+out*.perf
+out*.folded
+cmake-build-*/
+FlameGraph/
+.idea/
